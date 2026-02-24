@@ -1649,5 +1649,5 @@ return {
 	["zap"] = "rbxassetid://130551565616516",
 	["zoom-in"] = "rbxassetid://127956924984803",
 	["zoom-out"] = "rbxassetid://108334162607319",
-    ["silly-cat-meme"] = "rbxassetid://13903798344",
+	["silly-cat-meme"] = "rbxassetid://13333189503",
 }
